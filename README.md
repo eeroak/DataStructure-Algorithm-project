@@ -8,3 +8,6 @@ This repository contains practice and implementation with basic/essential data s
 <ul>
   <li>Eero Kuosmanen</li>
 </ul>
+
+#### Project status
+Unfinished❌
