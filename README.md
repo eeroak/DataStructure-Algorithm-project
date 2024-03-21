@@ -18,7 +18,7 @@ and how they work. I have tried to comment everything as well as possible, so an
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Authors / Contact
-Eero Kuosmanen - [Github](https://github.com/<eeroak>)
+Eero Kuosmanen - [Github](https://github.com/eeroak)
 
 ## Project status
 This project is currently under development.
