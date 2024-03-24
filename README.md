@@ -33,9 +33,9 @@ and how they work. I have tried to comment everything as well as possible, so an
     </li>
     <li>Tree-traversal algorithms showed minimal differences, even with large random binary trees. However, binary search outperformed the other search algorithms I tested by a significant margin.</li>
 </ul>
-<img src="lib\\search.png">
-<img src="lib\\sorting.png">
-<img src="lib\\trees.png">
+<img src="img\\search.png">
+<img src="img\\sorting.png">
+<img src="img\\trees.png">
 
 </details>
 
